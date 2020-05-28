@@ -1,0 +1,46 @@
+#form {
+    height: 30px;
+    width: 80px;
+    inline-size: min-content;
+
+}
+
+.bloco-form {
+    margin-left: 42%;
+    margin-top: 24px;
+    border: 2px;
+}
+
+#form {
+    margin-top: 50px;
+}
+
+
+#table {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: 175px;
+    margin-right: 10px;
+}
+
+#table td {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+}
+
+.info {
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    width: 290px
+}
+
+.botao{
+    padding: 5px;
+    margin-left: 10px;
+    width: 90px;
+    margin-top: 5px;
+}
+
+
